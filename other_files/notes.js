@@ -8,3 +8,15 @@
 // new_array = some_array.map(value => value*2) // works similarly as forEach but map returns something
 // function product(a,b) {return a*b} // one way to devalre a function
 // const product = function(a,b) {return a*b} // another way to declare a function // we can creeate anonymous functions like this
+
+// Class example :
+// class Person {
+//     constructor(name, age) {
+//       this.name = name
+//       this.age = age
+//     }
+//     greet() {
+//       console.log('hello, my name is ' + this.name)
+//     }
+//   }
+
